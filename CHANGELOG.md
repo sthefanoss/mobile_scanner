@@ -1,3 +1,7 @@
+## 6.0.1
+
+* [iOS] add doc about iOS breacking change on README.md.
+
 ## 6.0.0
 
 **BREAKING CHANGES:**

@@ -7,6 +7,9 @@
 
 A universal scanner for Flutter based on MLKit. Uses CameraX on Android and AVFoundation on iOS.
 
+## Breaking Changes v6.0.0
+The `google_ml_kit` recently received an update that requires changes to iOS, and potentially Android, files. Since `mobile_scanner` depends on this library, users of `mobile_scanner` may also need to make these changes. For more details, please visit [here](https://pub.dev/packages/google_ml_kit#requirements).
+
 ## Breaking Changes v5.0.0
 Version 5.0.0 brings some breaking changes. However, some are reverted in version 5.1.0. Please see the list below for all breaking changes, and Changelog.md for a more detailed list.
 
